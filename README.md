@@ -1,6 +1,6 @@
-**CCP CompMedChem - Meeting Minutes (10/03/17)**
+# CCP CompMedChem - Meeting Minutes (10/03/17)
 
-**Executive Summary:**
+### Executive Summary:
 
 A collective effort that would improve the ease-of-use and productivity of computational chemistry in compound discovery was discussed. In the morning, three core topics were discussed.
 
