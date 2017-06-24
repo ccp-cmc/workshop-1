@@ -1,364 +1,304 @@
-CCP CompMedChem - Meeting Minutes (10/03/17)
+**CCP CompMedChem - Meeting Minutes (10/03/17)**
 
-- Executive Summary:
+**Executive Summary:**
 
-- A collective effort that would improve the ease-of-use and productivity of computational
+A collective effort that would improve the ease-of-use and productivity of computational chemistry in compound discovery was discussed. In the morning, three core topics were discussed.
 
-- chemistry in compound discovery was discussed. In the morning, three core topics were
+1. Is this a useful ambition and is there will in the room to proceed?
 
-- discussed.​ 1) ​Is this a useful ambition and is there will in the room to proceed?​ 2)​ What are the
+2. What are the short term (InnovateUK - deadline April 12th) and long term ambitions and what are people able to commit to?
 
-- short term (InnovateUK - deadline April 12th) and long term ambitions and what are people able
+3. What are the actions and the timelines? In the afternoon we discussed the proposed technical setup in more detail and how CCP CompMedChem would fit into the framework of CCPs and STFC’s strategic goals.
 
-- to commit to? ​3)​ What are the actions and the timelines? In the afternoon we discussed the
+From the meeting it was agreed that
 
-- proposed technical setup in more detail and how CCP CompMedChem would fit into the
+1. CCP CompMedChem would be beneficial for all parties.
 
-- framework of CCPs and STFC’s strategic goals.
+2. Industrial parties were willing to contribute in-kind to grant applications. Academic parties were willing to contribute time and resources in adopting the platform and generating tools for it.
 
-- From the meeting it was agreed that ​1)​ CCP CompMedChem would be beneficial for all parties.
+3. The InnovateUK work packages should be made more focussed and core concerns around the application would be answered over the next week. Longer term - other research councils should be approached for funding for both core development activities and outreach/training.
 
-- 2) ​Industrial parties were willing to contribute in-kind to grant applications. Academic parties
+**At Diamond (18):** Frank von Delft - DLS/SGC; Anthony Bradley - Oxford/DLS; Garrett Morris - Oxford; Tim Dudgeon - Informatics Matters; Will Pitt - UCB; Mike Bodkin - Evotec; Ben Allen - e-Therapeutics; Mark Forster - STFC; Nathan Brown - ICR; Martyn Winn - CCP4; Sameer Velankar - PDBe; Jason Cole - CCDC; Andrew Leach - ChEMBL; Oliver Smart - PDBe; Jonathan Hirst - U of Nottingham; Ian Wall - GSK; Paolo Tosco - Cresset; Illian Totrov - CCP5
 
-- were willing to contribute time and resources in adopting the platform and generating tools for it.
+**Videoconference (4):**** **Matthias Rarey - U of Hamburg; Marcus Gastreich - BioSolveIT; Val Gillet - U of Sheffield; Peter Schmidtke - Discngine
 
-- 3) ​The InnovateUK work packages should be made more focussed and core concerns around
+**InnovateUK grant actions**
 
-- the application would be answered over the next week. Longer term - other research councils
+**Agreed Actions:**
 
-- should be approached for funding for both core development activities and outreach/training.
+1. Engage InnovateUK regarding concerns (see below) (by wednesday)
 
-- At Diamond (18):​ Frank von Delft - DLS/SGC; Anthony Bradley - Oxford/DLS; Garrett Morris -
+2. Rework work packages and re-present to partners (this week)
 
-- Oxford; Tim Dudgeon - Informatics Matters; Will Pitt - UCB; Mike Bodkin - Evotec; Ben Allen -
+3. Complete InnovateUK filing (next two-three weeks)
 
-- e-Therapeutics; Mark Forster - STFC; Nathan Brown - ICR; Martyn Winn - CCP4; Sameer
+    1. Business case
 
-- Velankar - PDBe; Jason Cole - CCDC; Andrew Leach - ChEMBL; Oliver Smart - PDBe;
+    2. Scientific scope (narrower and more precise)
 
-- Jonathan Hirst - U of Nottingham; Ian Wall - GSK; Paolo Tosco - Cresset; Illian Totrov - CCP5
+**Work packages:**
 
-- Videoconference (4):​ ​Matthias Rarey - U of Hamburg; Marcus Gastreich - BioSolveIT; Val
+*Fragments a core focus - in four different areas with proposed partners*
 
-- Gillet - U of Sheffield; Peter Schmidtke - Discngine
+1. Compound design tool - Evotec, e-Therapeutics, ICR, CCDC and Cresset
 
-- InnovateUK grant actions
+2. Molecular standardisation / preparation  - UCB, ChEMBL, STFC (Mark Forster), CCDC
 
-- Agreed Actions:
+3. Evaluation / comparison of tools - GSK, CCDC and Cresset
 
-- 1. Engage InnovateUK regarding concerns (see below) (by wednesday)
+    1. Focus on blind prospective studies
 
-- 2. Rework work packages and re-present to partners (this week)
+4. Consolidation of studentships - GSK, UCB, Evotec, e-Therapeutics, CCDC
 
-- 3. Complete InnovateUK filing (next two-three weeks)
+Academic funding - to be discussed - depends on industrial input and work packages
 
-a. Business case
+**Preparedness to commit**
 
-b. Scientific scope (narrower and more precise)
+* **Industrial: **Willing to commit in kind (timescale permitting)
 
-- Work packages:
+* **Academic: **Willing to use framework and commit tools / resource to it
 
-- Fragments a core focus - in four different areas with proposed partners
+**Concerns:**
 
-- 1. Compound design tool - Evotec, e-Therapeutics, ICR, CCDC and Cresset
+*We will aim to have answers to the InnovateUK questions by end of Wednesday. *
 
-- 2. Molecular standardisation / ​preparation ​ - UCB, ChEMBL, STFC (Mark Forster), CCDC
+1. What is fundable?
 
-- 3. Evaluation / comparison of tools - GSK, CCDC and Cresset
+    1. Compounds
 
-a. Focus on blind prospective studies
+    2. Studentships
 
-- 4. Consolidation of studentships - GSK, UCB, Evotec, e-Therapeutics, CCDC
+    3. Data
 
-- Academic funding - to be discussed - depends on industrial input and work packages
+    4. Software - code or licenses
 
-- Preparedness to commit
+2. Signed agreement necessary?
 
-- ● Industrial: ​Willing to commit in kind (timescale permitting)
+3. Is novelty important?
 
-- ● Academic: ​Willing to use framework and commit tools / resource to it
+4. Does data used need to be available?
 
-- Concerns:
+5. Timescale of the auditing
 
-- We will aim to have answers to the InnovateUK questions by end of Wednesday.
+6. Is European money leverageable? What is UK company?
 
-- 1. What is fundable?
+**Key issues for companies to consider?**
 
-a. Compounds
+* How will this grant improve your turnover?
 
-b. Studentships
+* What in-kind material they can get hands on - and in what timescales?
 
-c. Data
+* Are they able to apply auditing to such things simply?
 
-d. Software - code or licenses
+**Companies to include:**
 
-Is novelty important?
+1. Astex and Vernalis (fragments)
 
-- 2. Signed agreement necessary?
+2. Syngenta (not just medicines)
 
-- 3.
+**Longer term**
 
-- 4. Does data used need to be available?
+**Actions: **
 
-- 5. Timescale of the auditing
+1. Approach BBSRC / MRC / WT
 
-- 6.
+2. Funding for meeting of CCP4 style annual meeting, workshops and outreach 
 
-- Key issues for companies to consider?
+3. Europe wide funding possibilities 
 
-Is European money l​everageable​? What is UK company?
+4. Long-term sustainability proposals for maintaining core code
 
-- ● How will this grant improve your turnover?
+**Concerns:**
 
-- ● What in-kind material they can get hands on - and in what timescales?
+1. Formal proposal for longevity of CCP CompMedChem
 
-- ● Are they able to apply auditing to such things simply?
+2. Specific technologies (e.g. Docker) - build prop
 
-- Companies to include:
+3. Open-source platform needed (not reliant on one person)
 
-- 1. Astex and Vernalis (fragments)
+All willing to commit irrelevant of success of InnovateUK grant
 
-- 2. Syngenta (not just medicines)
+**Clarifications:**
 
-- Longer term
+* What is the name?
 
-- Actions:
+    * CCP CompMedChem - may not be appropriate for agrochemicals - we will continue investigating other names.
 
-- 1. Approach BBSRC / MRC / WT
+* Is CCP CMC developing our own algorithms?
 
-- 2. Funding for meeting of CCP4 style annual meeting, workshops and outreach
+    * This wouldn’t be a core goal of CCP CompMedChem. Rather we would support algorithm developers to move their software into use.
 
-- 3. Europe wide funding possibilities
+* Why is this different to Knime/Pipeline pilot?
 
-- 4. Long-term sustainability proposals for maintaining core code
+    * CCP CompMedChem is overall technology agnostic. Knime workflows are already able to be submitted as SQUONK nodes. We will focus on any technology that enables tools to be used and interoperated.  
 
-- Concerns:
+* Do we envisage Python / Java / Bash etc at core?
 
-- 1. Formal proposal for longevity of CCP CompMedChem
+    * No. We aim to be as technology agnostic as possible. Containerisation technologies allow for any software language / library to be used.
 
-- 2. Specific technologies (e.g. Docker) - build prop
+* What’s going to happen to platform code?
 
-- 3. Open-source platform needed (not reliant on one person)
+    * We will open-source the workflow tool as part of the InnovateUK funding. This would become a community asset.
 
-- All willing to commit irrelevant of success of InnovateUK grant
+* What do you get if you put in money?
 
-- Clarifications:
+    * You get to design the projects - ensure they reach an unmet need for your company.
 
-- ● What is the name?
+    * You get first access to any software developed - as you have full access to development code.
 
-○ CCP CompMedChem - may not be appropriate for agrochemicals - we willcontinue investigating other names.
+* How do we support more interactive tools (e.g. Ipython or SeeSAR)?
 
-- ● Is CCP CMC developing our own algorithms?
+    * We aim for these to be part of the project further on.
 
-○ This wouldn’t be a core goal of CCP CompMedChem. Rather we would supportalgorithm developers to move their software into use.
+* Can studentships be part of the contributions?
 
-- ● Why is this different to Knime/Pipeline pilot?
+    * Yes - as part of InnovateUK at least.
 
-○ CCP CompMedChem is overall technology agnostic. Knime workflows arealready able to be submitted as SQUONK nodes. We will focus on any
+* Isn’t Docker a major issue?
 
-technology that enables tools to be used and interoperated.
+    * We recognise some concerns with Docker - although most of them are historical. We see it is the simplest way of performing the goal we wish to pursue. If other containerisation technologies are preferable - we are willing to pursue them instead.
 
-- ● Do we envisage Python / Java / Bash etc at core?
+* What is are the KPIs of InnovateUK funding?
 
-○ No. We aim to be as technology agnostic as possible. Containerisation
+    * Creation of jobs is a must. Needs to have a clear impact on the bottom line of UK industry.
 
-technologies allow for any software language / library to be used.
+**Outcomes of roundtable:**
 
-- ● What’s going to happen to platform code?
+**Will Pitt - UCB:**
 
-○ We will open-source the workflow tool as part of the InnovateUK funding. Thiswould become a community asset.
+* Structure preparation
 
-- ● What do you get if you put in money?
+* Fragment-to-hit infrastructure
 
-○ You get to design the projects - ensure they reach an unmet need for yourcompany.
+* *Concerns: *Longevity, technology
 
-○ You get first access to any software developed - as you have full access todevelopment code.
+**Mike Bodkin - Evotec:**
 
-- ● How do we support more interactive tools (e.g. Ipython or SeeSAR)?
+* Stretch software budget
 
-○ We aim for these to be part of the project further on.
+* Bring in cutting edge tools
 
-- ● Can studentships be part of the contributions?
+* Curation and collection of available tools
 
-○ Yes - as part of InnovateUK at least.
+* Interoperability
 
-- ● Isn’t Docker a major issue?
+* Top layer for access
 
-○ We recognise some concerns with Docker - although most of them are historical.We see it is the simplest way of performing the goal we wish to pursue. If othercontainerisation technologies are preferable - we are willing to pursue theminstead.
+* Translate more targets
 
-- ● What is are the KPIs of InnovateUK funding?
+* *Concerns: *Cash contrib not possible
 
-○ Creation of jobs is a must. Needs to have a clear impact on the bottom line of UKindustry.
+**Ben Allen - e-Therapeutics:**
 
-- Outcomes of roundtable:
+* Bring together tools
 
-- Will Pitt - UCB:
+* Experimental work can be part of it
 
-Fragment-to-hit infrastructure
+* *Concerns: *Timescale might be challenging 
 
-- - Structure preparation
+**Tim Dudgeon - Informatics Matters:**
 
-- -
+* Focus on FBDD - need focus for application
 
-- - Concerns: ​Longevity, technology
+**Mark Forster - STFC:**
 
-- Mike Bodkin - Evotec:
+* Problem focussed rather than broad area
 
-- - Stretch software budget
+* Define key business problems / competencies
 
-- - Bring in cutting edge tools
+**Nathan Brown - ICR: **
 
-- - Curation and collection of available tools
+* Interested in inputting to use cases
 
-- -
+    * hit triage / capturing molecular design ideas
 
-- -
+* Use within Med-chem groups
 
-- -
+* Teaching tool for comp-chem workshops
 
-- - Concerns: ​Cash contrib not possible
+* Community use
 
-Interoperability
+**Martyn Winn - CCP4: **
 
-Top layer for access
+* Previous experience - auditing heavy
 
-Translate more targets
+* large delays on getting datasets approved
 
-- Ben Allen - e-Therapeutics:
+**Sameer Velankar - PDBe:**
 
-- - Bring together tools
+* Molecular standardisation, hard to link databases
 
-- - Experimental work can be part of it
+* Visualisation contribution
 
-- - Concerns: ​Timescale might be challenging
+* Ligand validation - especially fragments
 
-- Tim Dudgeon - Informatics Matters:
+* Enriching deposition and establishing the standard for quality
 
-- -
+* Mechanism for producing and maintaining datasets
 
-Focus on FBDD - need focus for application
+**Jason Cole - CCDC:**
 
-- Mark Forster - STFC:
+* Potential to find commitment
 
-- - Problem focussed rather than broad area
+* Structure preparation / curation - they have test bed
 
-- - Define key business problems / competencies
+* Longevity / transferring of PhD projects to use
 
-- Nathan Brown - ICR:
+* Rolling out tools even for CCDC an issue
 
-- -
+**Andrew Leach - ChEMBL:**
 
-Interested in inputting to use cases
+* Fragments a good business case
 
--
+* ChEMBL can support / sustain some resources
 
-hit triage / capturing molecular design ideas
+* Good opportunity to evaluate methods - big possible opportunity
 
-- - Use within Med-chem groups
+**Oliver Smart - PDBe:**
 
-- -
+* Selling point - make data live in exploitable format
 
-- - Community use
+* Deposition workflow
 
-Teaching tool for comp-chem workshops
+**Jonathan Hirst - U of Nottingham:**
 
-- Martyn Winn - CCP4:
+* Platform valuable
 
-- - Previous experience - auditing heavy
+* Not losing PhD projects
 
-- -
+* Off the shelf pipeline
 
-large delays on getting datasets approved
+* CCP branding - academic input for longer term vision
 
-- Sameer Velankar - PDBe:
+* Would want to contribute
 
-- - Molecular standardisation, hard to link databases
+**Ian Wall - GSK:**
 
-- - Visualisation contribution
+* Like the project
 
-- -
+* 12th April - tight deadline - level of commitment?
 
-- - Enriching deposition and establishing the standard for quality
+* Ability to assess tools - lots of time currently spent doing this
 
-- - Mechanism for producing and maintaining datasets
+* Maintenance of open-source tools
 
-Ligand validation - especially fragments
+**Paolo Tosco - Cresset: **
 
-- Jason Cole - CCDC:
+* Wider, easier and more productive tools
 
-- - Potential to find commitment
+* Difficult to use HPC
 
-- - Structure preparation / curation - they have test bed
+* Too many tools and number of other workflows - where’s the novelty?
 
-- -
+* Need to define competitive advantage and spell out very clearly
 
-- - Rolling out tools even for CCDC an issue
+**Illian Totrov - CCP5:**
 
-Longevity / transferring of PhD projects to use
+* Create a self-sustaining community
 
-- Andrew Leach - ChEMBL:
+**Garrett Morris - Oxford:**
 
-Fragments a good business case
+* Method development 
 
-- -
-
-- - ChEMBL can support / sustain some resources
-
-- - Good opportunity to evaluate methods - big possible opportunity
-
-- Oliver Smart - PDBe:
-
-- - Selling point - make data live in exploitable format
-
-- - Deposition workflow
-
-- Jonathan Hirst - U of Nottingham:
-
-- - Platform valuable
-
-- - Not losing PhD projects
-
-- - Off the shelf pipeline
-
-- - CCP branding - academic input for longer term vision
-
-- - Would want to contribute
-
-- Ian Wall - GSK:
-
-Like the project
-
-12th April - tight deadline - level of commitment?
-
-- -
-
-- -
-
-- - Ability to assess tools - lots of time currently spent doing this
-
-- - Maintenance of open-source tools
-
-- Paolo Tosco - Cresset:
-
-- - Wider, easier and more productive tools
-
-- - Difficult to use HPC
-
-- -
-
-- - Need to define competitive advantage and spell out very clearly
-
-Too many tools and number of other workflows - where’s the novelty?
-
-- Illian Totrov - CCP5:
-
-- - Create a self-sustaining community
-
-- Garrett Morris - Oxford:
-
-- - Method development
-
-- -
-
-Teaching
+* Teaching
 
