@@ -18,13 +18,34 @@ From the meeting it was agreed that
 
 3. The InnovateUK work packages should be made more focussed and core concerns around the application would be answered over the next week. Longer term - other research councils should be approached for funding for both core development activities and outreach/training.
 
-**At Diamond (18):** Frank von Delft - DLS/SGC; Anthony Bradley - Oxford/DLS; Garrett Morris - Oxford; Tim Dudgeon - Informatics Matters; Will Pitt - UCB; Mike Bodkin - Evotec; Ben Allen - e-Therapeutics; Mark Forster - STFC; Nathan Brown - ICR; Martyn Winn - CCP4; Sameer Velankar - PDBe; Jason Cole - CCDC; Andrew Leach - ChEMBL; Oliver Smart - PDBe; Jonathan Hirst - U of Nottingham; Ian Wall - GSK; Paolo Tosco - Cresset; Illian Totrov - CCP5
+### Attendees
+|Organisation    |Attendee|
+|----------------|-----------------|
+|Frank von Delft| DLS/SGC |
+|Anthony Bradley | Oxford/DLS | 
+|Garrett Morris | Oxford|
+|Tim Dudgeon | Informatics Matters|
+|Will Pitt | UCB|
+|Mike Bodkin | Evotec|
+|Ben Allen | e-Therapeutics| 
+|Mark Forster | STFC |
+|Nathan Brown | ICR|
+|Martyn Winn | CCP4| 
+|Sameer Velankar | PDBe|
+|Jason Cole | CCDC| 
+|Andrew Leach | ChEMBL|
+|Oliver Smart | PDBe|
+|Jonathan Hirst | U of Nottingham|
+|Ian Wall | GSK|
+|Paolo Tosco | Cresset|
+|Illian Totrov | CCP5|
+|By | Video|
+|Matthias Rarey | U of Hamburg| 
+|Marcus Gastreich | BioSolveIT| 
+|Val Gillet | U of Sheffield| 
+|Peter Schmidtke | Discngine|
 
-**Videoconference (4):**** **Matthias Rarey - U of Hamburg; Marcus Gastreich - BioSolveIT; Val Gillet - U of Sheffield; Peter Schmidtke - Discngine
-
-**InnovateUK grant actions**
-
-**Agreed Actions:**
+### InnovateUK grant actions
 
 1. Engage InnovateUK regarding concerns (see below) (by wednesday)
 
